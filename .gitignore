@@ -1,0 +1,21 @@
+# 虚拟环境
+.venv/
+
+# VS Code 配置
+.vscode/
+
+# Python 缓存文件
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Jupyter Notebook 检查点
+.ipynb_checkpoints/
+
+# 分发/打包
+dist/
+build/
+*.egg-info/
+
+# 环境变量
+.env
